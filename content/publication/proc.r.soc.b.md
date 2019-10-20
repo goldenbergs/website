@@ -25,7 +25,7 @@ abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "files/rstb.2018.0062"
+image_preview = "static/img/rspb.285.issue-1879.cover"
 
 # Is this a selected publication? (true/false)
 selected = false
