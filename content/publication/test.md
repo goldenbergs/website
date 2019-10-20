@@ -36,7 +36,7 @@ selected = false
 projects = [""]
 
 # Links (optional).
-url_pdf = "http://dx.doi.org/10.1186/s13071-015-1170-1"
+url_pdf = ""
 url_preprint = ""
 url_code = ""
 url_dataset = ""
