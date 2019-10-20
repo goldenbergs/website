@@ -29,7 +29,7 @@ interests:
 - Behavioral ecology
 - Conservation behavior
 - Organismal biology
-- Population biology
+- Movement ecology
 
 education:
   courses:
