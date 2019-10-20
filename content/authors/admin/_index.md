@@ -70,4 +70,5 @@ user_groups:
 - Visitors
 ---
 
-As a behavioral ecologist, Shifra works to leverage animal behavior to address questions that simultaneously advance basic understanding of animal societies and conservation objectives, primarily conducting research in the field. Most recently, she has been focused on developing and implementing research to inform conservation translocations in Asian and African elephants, which includes understanding social behavior, interactions with humans, and movement strategies.
+I am an Ecologist at the Smithsonian Conservation Biology Institute and a Research Fellow with the San Diego Zoo Institute for Conservation Research. I conduct research at the intersection of animal behavior and conservation biology with the goal of simultaneously advancing basic understanding of nonhuman animal societies and providing results relevant for conservation objectives.   
+
