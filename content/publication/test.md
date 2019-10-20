@@ -1,9 +1,9 @@
 +++
-title = "Vaccination with the variable tick protein of the relapsing fever spirochete Borrelia hermsii protects mice from infection by tick-bite"
-date = "2015-10-21"
+title = "Increasing conservation translocation success by building social functionality in released populations"
+date = "2019-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Benjamin J. Krajacich**", "Job E. Lopez", "Sandra J. Raffel", "Tom G. Schwan"]
+authors = ["**S. Z. Goldenberg**", "M. A. Owen", "J. L. Brown", "G. Wittemyer", "Z. M. Oo", "P. Leimgruber"]
 
 # Publication type.
 # Legend:
@@ -17,7 +17,7 @@ authors = ["**Benjamin J. Krajacich**", "Job E. Lopez", "Sandra J. Raffel", "Tom
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Parasites and Vectors"
+publication = "Global Ecology and Conservation"
 publication_short = ""
 
 # Abstract and optional shortened version.
