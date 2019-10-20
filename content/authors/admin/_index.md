@@ -18,15 +18,18 @@ organizations:
   url: "https://nationalzoo.si.edu/conservation"
 - name: San Diego Zoo Institute for Conservation Research
   url: "https://institute.sandiegozoo.org/"
+- name: Save the Elephants
+  url: "https://www.savetheelephants.org/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Animal Behavior
-- Behavioral Ecology
-- Conservation Biology
-- Organismal Biology
+- Animal behavior
+- Behavioral ecology
+- Conservation behavior
+- Organismal biology
+- Population biology
 
 education:
   courses:
