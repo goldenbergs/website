@@ -36,7 +36,7 @@ education:
   - course: PhD in Ecology
     institution: Colorado State University
     year: 2016
-  - course: BSc in Ecology and Evolutionary Biology - Minor in Near Eastern Studies
+  - course: BSc in Ecology and Evolutionary Biology, Minor in Near Eastern Studies
     institution: University of Michigan
     year: 2009
 
