@@ -25,10 +25,10 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Animal behavior
 - Behavioral ecology
 - Conservation behavior
 - Organismal biology
+- Population ecology
 - Movement ecology
 
 education:
