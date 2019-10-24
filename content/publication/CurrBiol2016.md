@@ -55,7 +55,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "curr.bio.cover.jpg"
+image = "curbio_26_1_3c.jpg"
 caption = ""
 
 +++
